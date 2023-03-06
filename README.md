@@ -8,6 +8,9 @@
 
 ![class diagram ChessGame](https://github.com/9620728/Java-Group-1/blob/main/Images/chess.drawio.png)
 
+### Class diagram for FlappyBird
+![FlappyBird diagram](https://github.com/9620728/Java-Group-1/blob/main/Images/diagram.png)
+
 ### Visual idea for FlappyBird
 
 ![FlappyBird diagram](https://github.com/9620728/Java-Group-1/blob/main/Images/Untitled%20Diagram.drawio.png)
