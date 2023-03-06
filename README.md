@@ -6,4 +6,4 @@
 
 ### Visual idea for ChessGame
 
-![Rough game idea] (https://github.com/9620728/Java-Group-1/blob/main/Images/chess.drawio.png)
+![rough game idea] (https://github.com/9620728/Java-Group-1/blob/main/Images/chess.drawio.png)
