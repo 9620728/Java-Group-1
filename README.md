@@ -5,7 +5,7 @@ Our group is going to make a chess game with an alien twist. All of the pieces w
 
 ### Class diagram for ChessGame
 
-![class diagram ChessGame](https://github.com/9620728/Java-Group-1/blob/main/Images/ChessGame.png?raw=true)
+![class diagram ChessGame](https://github.com/9620728/Java-Group-1/blob/main/Images/chessgame%232.png?raw=true)
 
 ### Visual idea for ChessGame
 
