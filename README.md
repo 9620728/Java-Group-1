@@ -1,7 +1,7 @@
 # Java-Group-1
 ## Chess game
 
-Our group is going to make a chess game with an alien twist. All of the pieces will have an alien look to them, and some pieces will have special moves or "powers". It will be graphics based with all of the pieces being interacted via a mouse click and drag. 
+Our group is going to make a chess game with an monster twist. All of the pieces will have an monster look to them, and some pieces will have special moves or "powers". It will be graphics based with all of the pieces being interacted via a mouse click and drag. 
 
 ### Class diagram for ChessGame
 
