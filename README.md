@@ -16,3 +16,9 @@ Our group is going to make a chess game with an monster twist. All of the pieces
 ## Roles
 
 ### Pax - Graphics | Alec - Testing | Nate - UX/UI | Oliver - Developer | Kainoa - Developer | 
+
+### Class diagram for ChessGame
+
+![class diagram ChessGame](https://github.com/9620728/Java-Group-1/blob/main/Images/board_example.png)
+
+### - by Oliver
