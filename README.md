@@ -11,18 +11,6 @@ Our group is going to make a chess game with an alien twist. All of the pieces w
 
 ![Visual idea ChessGame](https://github.com/9620728/Java-Group-1/blob/main/Images/chess.drawio.png)
 
-## Flappy bird
-
-Our flappy bird will be monster themed, with the "bird" being a small animal and the pipes resembling teeth (like a monsters teeth). This will also be a graphics based application.
-
-### Class diagram for FlappyBird
-
-![FlappyBird class diagram](https://github.com/9620728/Java-Group-1/blob/main/Images/diagram.png)
-
-### Visual idea for FlappyBird
-
-![FlappyBird diagram](https://github.com/9620728/Java-Group-1/blob/main/Images/Untitled%20Diagram.drawio.png)
-
 ## Roles
 
 ### Pax - Graphics | Alec - Testing | Nate - UX/UI | Oliver - Developer | Kainoa - Developer | 
