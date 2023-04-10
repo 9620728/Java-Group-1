@@ -7,7 +7,7 @@ Our group is going to make a chess game with an monster twist. All of the pieces
 
 ![class diagram ChessGame](https://github.com/9620728/Java-Group-1/blob/main/Images/logic.drawio.png)
 
-### - by Pax
+### - by Pam
 
 ### Visual idea for ChessGame
 
@@ -15,7 +15,7 @@ Our group is going to make a chess game with an monster twist. All of the pieces
 
 ## Roles
 
-### Pax - Graphics | Alec - Testing | Nate - UX/UI | Oliver - Developer | Kainoa - Developer | 
+### Pam - Graphics | Alec - Testing | Nate - UX/UI | Oliver - Developer | Kainoa - Developer | 
 
 ### Class diagram for ChessGame
 
@@ -26,3 +26,5 @@ Our group is going to make a chess game with an monster twist. All of the pieces
 ### Pieces final design
 
 ![Bishop White](https://github.com/9620728/Java-Group-1/blob/main/Images/Bishop_W.png) ![Bishop Black](https://github.com/9620728/Java-Group-1/blob/main/Images/Bishop_B.png) ![Rook White](https://github.com/9620728/Java-Group-1/blob/main/Images/Rook_W.png) ![Rook Black](https://github.com/9620728/Java-Group-1/blob/main/Images/Rook_B.png) ![Pawn White](https://github.com/9620728/Java-Group-1/blob/main/Images/Pawn_W.png) ![Pawn Black](https://github.com/9620728/Java-Group-1/blob/main/Images/Pawn_B.png)
+
+### by - Pam
