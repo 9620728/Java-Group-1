@@ -27,7 +27,7 @@ Our group is going to make a chess game with an monster twist. All of the pieces
 
 ![Bishop White](https://github.com/9620728/Java-Group-1/blob/main/Images/Bishop_W.png) ![Bishop Black](https://github.com/9620728/Java-Group-1/blob/main/Images/Bishop_B.png) ![Rook White](https://github.com/9620728/Java-Group-1/blob/main/Images/Rook_W.png) ![Rook Black](https://github.com/9620728/Java-Group-1/blob/main/Images/Rook_B.png) ![Pawn White](https://github.com/9620728/Java-Group-1/blob/main/Images/Pawn_W.png) ![Pawn Black](https://github.com/9620728/Java-Group-1/blob/main/Images/Pawn_B.png)
 
-### Chess Board Design
+### Chess Board Design By - Nate
 ![Functional chess board](https://github.com/9620728/Java-Group-1/blob/main/Images/ChessBoard.png)
 
 ### by - Pam
