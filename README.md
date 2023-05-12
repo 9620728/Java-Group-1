@@ -30,3 +30,10 @@ Our group is going to make a chess game with an monster twist. All of the pieces
 ![Bishop White](https://github.com/9620728/Java-Group-1/blob/main/Images/Bishop_W.png) ![Bishop Black](https://github.com/9620728/Java-Group-1/blob/main/Images/Bishop_B.png) ![Rook White](https://github.com/9620728/Java-Group-1/blob/main/Images/Rook_W.png) ![Rook Black](https://github.com/9620728/Java-Group-1/blob/main/Images/Rook_B.png) ![Pawn White](https://github.com/9620728/Java-Group-1/blob/main/Images/Pawn_W.png) ![Pawn Black](https://github.com/9620728/Java-Group-1/blob/main/Images/Pawn_B.png) ![Queen White](https://github.com/9620728/Java-Group-1/blob/main/Images/Queen_W.png) ![Queen Black](https://github.com/9620728/Java-Group-1/blob/main/Images/Queen_B.png) ![King White](https://github.com/9620728/Java-Group-1/blob/main/Images/King_W.png) ![King Black](https://github.com/9620728/Java-Group-1/blob/main/Images/King_B.png) ![Knigth White](https://github.com/9620728/Java-Group-1/blob/main/Images/Knight_W.png) ![Knigth Black](https://github.com/9620728/Java-Group-1/blob/main/Images/Knight_B.png)
 
 ### by - Pam
+
+### Updated Board
+
+![Board](https://github.com/9620728/Java-Group-1/blob/main/Images/update.png)
+
+### Board by - Nate
+### Pieces by - Pam
