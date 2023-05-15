@@ -37,3 +37,7 @@ Our group is going to make a chess game with an monster twist. All of the pieces
 
 ### Board by - Nate
 ### Pieces by - Pam
+
+![Start Screen] (https://github.com/9620728/Java-Group-1/blob/main/Images/Screen%20Shot%202023-05-15%20at%209.09.58%20AM.png)
+
+### Start Screen - Alec
