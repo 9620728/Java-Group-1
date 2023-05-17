@@ -23,7 +23,7 @@ Our group is going to make a chess game with an monster twist. All of the pieces
 
 ![Screenshot of working ChessGame](https://github.com/9620728/Java-Group-1/blob/main/Images/ChessBoard.png?raw=true)
 
-[Source Code]([https://github.com/9620728/Java-Group-1/blob/main/src/ChessGame.zip](https://github.com/9620728/Java-Group-1/blob/main/src/ChessGameWithPieceClass.zip))
+[Source Code](https://github.com/9620728/Java-Group-1/blob/main/src/ChessGameWithPieceClass.zip)
 
 ### Pieces final design
 
