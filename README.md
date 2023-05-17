@@ -7,7 +7,7 @@ Our group is going to make a chess game with an monster twist. All of the pieces
 
 ![class diagram ChessGame](https://github.com/9620728/Java-Group-1/blob/main/Images/logic.drawio.png)
 
-### - by Pam
+### - by Pam & Oliver
 
 ### Visual idea for ChessGame
 
@@ -24,6 +24,7 @@ Our group is going to make a chess game with an monster twist. All of the pieces
 ![Screenshot of working ChessGame](https://github.com/9620728/Java-Group-1/blob/main/Images/ChessBoard.png?raw=true)
 
 [Source Code](https://github.com/9620728/Java-Group-1/blob/main/src/ChessGameWithPieceClass.zip)
+### - All source code (except the board class) by Oliver
 
 ### Pieces final design
 
