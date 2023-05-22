@@ -37,6 +37,9 @@ Our group is going to make a chess game with an monster twist. All of the pieces
 ![Board](https://github.com/9620728/Java-Group-1/blob/main/Images/update.png)
 
 ### Board by - Nate
+
+### Snap to grid by - Nate (with some help from other chess group)
+
 ### Pieces by - Pam
 
 ### Start Screen
